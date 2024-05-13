@@ -1,10 +1,10 @@
 ## Jungle_sample
 This is an 90 minute assessment I took in 2022 for a job interview
 
-#Assessment Total Time: 90 minutes
+**Assessment Total Time: 90 minutes**
 After the 90 minutes is complete, please zip your solutions and return it for evaluation.
 
-#Assessment Problem Definition – Part 1 - 1 question: (1 hour)
+**Assessment Problem Definition – Part 1 - 1 question: (1 hour)**
 Create the objects that you feel would best model a jungle using JavaScript and best coding practices
 based on the following requirements.
 1. The jungle contains several species of animals; tigers, monkeys and snakes.
@@ -26,7 +26,7 @@ monkey doesn't have enough energy to play they say "Monkey is too tired".
 12. Bonus Item: The jungle can have each animal perform a random activity out of the ones possible
 for that animal. Include Unit tests if you would like to do so.
 
-#Assessment Problem Definition – Part 2 – 2 questions: (30 minutes)
+**Assessment Problem Definition – Part 2 – 2 questions: (30 minutes)**
 [Part 2 - Problem 1]
 In this problem we are asking for implementation in JavaScript of a function, f, that encodes a String.
 The function f shall accept a String as an input and return the encoded String as a return value.
@@ -46,7 +46,7 @@ Please write and submit this function with any unit tests that you would like to
 What would be the result of encoding the String “Errors in strategy cannot be correct through tactical
 maneuvers”?
 
-#[Part 2 - Problem 2]
+**[Part 2 - Problem 2]**
 In this problem we are asking for implementation in JavaScript of a function, g, that returns the
 frequency of alphabet letters in a given string ignoring upper/lower case issues.
 Use whatever programming language you are most comfortable with, although we prefer to see
